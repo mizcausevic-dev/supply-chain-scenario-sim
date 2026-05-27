@@ -1,0 +1,18 @@
+{
+  "baselines": [
+    {
+      "id": "na-network-core",
+      "name": "North America Core Network",
+      "scope": "NETWORK",
+      "scopePath": "networks/north-america-core",
+      "baselineStatus": "CURRENT",
+      "owner": "Supply Operations",
+      "weeklyVolumeUnits": 148000,
+      "inventoryBufferDays": 11,
+      "targetServiceLevelPct": 97,
+      "targetLeadTimeDays": 4,
+      "collectedAt": "2026-05-30T09:00:00Z"
+    }
+  ],
+  "scenarios": []
+}
